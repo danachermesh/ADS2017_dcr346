@@ -1,0 +1,1199 @@
+,DBN,SchoolName,SchoolType,Rating
+0,M015,P.S. 015 Roberto Clemente,Elementary,3.0
+1,M019,P.S. 019 Asher Levy,Elementary,5.0
+2,M020,P.S. 020 Anna Silver,Elementary,4.0
+3,M034,P.S. 034 Franklin D. Roosevelt,K-8,5.0
+4,M063,The STAR Academy - P.S.63,Elementary,3.0
+5,M064,P.S. 064 Robert Simon,Elementary,3.0
+6,M110,P.S. 110 Florence Nightingale,Elementary,5.0
+7,M134,P.S. 134 Henrietta Szold,Elementary,3.0
+8,M137,P.S. 137 John L. Bernstein,Elementary,3.0
+9,M140,P.S. 140 Nathan Straus,K-8,5.0
+10,M142,P.S. 142 Amalia Castro,Elementary,3.0
+11,M184,P.S. 184m Shuang Wen,K-8,5.0
+12,M188,P.S. 188 The Island School,K-8,4.0
+13,M292,Henry Street School for International Studies,Middle,4.0
+14,M301,"Technology, Arts, and Sciences Studio",Middle,4.0
+15,M315,The East Village Community School,Elementary,5.0
+16,M332,University Neighborhood Middle School,Middle,5.0
+17,M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",Middle,4.0
+18,M361,The Children's Workshop School,Elementary,4.0
+19,M363,Neighborhood School,Elementary,3.0
+20,M364,Earth School,Elementary,3.0
+21,M378,School for Global Leaders,Middle,5.0
+22,M450,East Side Community School,Middle,5.0
+23,M539,"New Explorations into Science, Technology and Math High School",K-8,5.0
+24,M839,Tompkins Square Middle School,Middle,5.0
+25,M001,P.S. 001 Alfred E. Smith,Elementary,4.0
+26,M002,P.S. 002 Meyer London,Elementary,5.0
+27,M003,P.S. 003 Charrette School,Elementary,5.0
+28,M006,P.S. 006 Lillie D. Blake,Elementary,5.0
+29,M011,P.S. 011 William T. Harris,Elementary,5.0
+30,M033,P.S. 033 Chelsea Prep,Elementary,5.0
+31,M040,P.S. 040 Augustus Saint-Gaudens,Elementary,5.0
+32,M041,P.S. 041 Greenwich Village,Elementary,5.0
+33,M042,P.S. 042 Benjamin Altman,Elementary,5.0
+34,M051,P.S. 051 Elias Howe,Elementary,5.0
+35,M059,P.S. 059 Beekman Hill International,Elementary,5.0
+36,M077,P.S. 77 Lower Lab School,Elementary,5.0
+37,M089,P.S. 89,Elementary,4.0
+38,M104,J.H.S. 104 Simon Baruch,Middle,5.0
+39,M111,P.S. 111 Adolph S. Ochs,K-8,4.0
+40,M114,East Side Middle School,Middle,5.0
+41,M116,P.S. 116 Mary Lindley Murray,Elementary,5.0
+42,M124,P.S. 124 Yung Wing,Elementary,5.0
+43,M126,P.S. 126 Jacob August Riis,K-8,5.0
+44,M130,P.S. 130 Hernando De Soto,Elementary,5.0
+45,M131,M.S. 131,Middle,5.0
+46,M150,P.S. 150,Elementary,5.0
+47,M158,P.S. 158 Bayard Taylor,Elementary,5.0
+48,M167,J.H.S. 167 Robert F. Wagner,Middle,5.0
+49,M183,P.S. 183 Robert L. Stevenson,Elementary,5.0
+50,M198,P.S. 198 Isador E. Ida Straus,Elementary,1.0
+51,M212,P.S. 212 Midtown West,Elementary,5.0
+52,M217,P.S./I.S. 217 Roosevelt Island,K-8,4.0
+53,M225,Ella Baker School,K-8,3.0
+54,M234,P.S. 234 Independence School,Elementary,4.0
+55,M255,M.S. 255 Salk School of Science,Middle,5.0
+56,M260,M.S. 260 Clinton School Writers & Artists,Middle,5.0
+57,M276,BATTERY PARK CITY SCHOOL,K-8,5.0
+58,M289,I.S. 289,Middle,5.0
+59,M290,P.S. 290 Manhattan New School,Elementary,5.0
+60,M312,New York City Lab Middle School for Collaborative Studies,Middle,5.0
+61,M347,The 47 American Sign Language & English Lower School,K-8,
+62,M407,Institute for Collaborative Education,Middle,4.0
+63,M408,Professional Performing Arts High School,Middle,3.0
+64,M413,School of the Future High School,Middle,5.0
+65,M422,Quest to Learn,Middle,4.0
+66,M442,"Ballet Tech, NYC Public School for Dance",K-8,4.0
+67,M655,Life Sciences Secondary School,Middle,3.0
+68,M896,Lower Manhattan Community Middle School,Middle,5.0
+69,M009,P.S. 009 Sarah Anderson,Elementary,5.0
+70,M054,J.H.S. 054 Booker T. Washington,Middle,4.0
+71,M075,P.S. 075 Emily Dickinson,Elementary,4.0
+72,M076,P.S. 076 A. Philip Randolph,K-8,4.0
+73,M084,P.S. 084 Lillian Weber,Elementary,4.0
+74,M087,P.S. 087 William Sherman,Elementary,5.0
+75,M145,"P.S. 145, The Bloomingdale School",Elementary,1.0
+76,M149,P.S. 149 Sojourner Truth,K-8,4.0
+77,M163,P.S. 163 Alfred E. Smith,Elementary,4.0
+78,M165,P.S. 165 Robert E. Simon,K-8,5.0
+79,M166,P.S. 166 The Richard Rodgers School of The Arts and Technology,Elementary,4.0
+80,M180,P.S. 180 Hugo Newman,K-8,4.0
+81,M191,P.S. 191 Amsterdam,K-8,3.0
+82,M199,P.S. 199 Jessie Isador Straus,Elementary,5.0
+83,M208,P.S. 208 Alain L. Locke,Elementary,2.0
+84,M241,STEM Institute of Manhattan,Elementary,3.0
+85,M242,P.S. 242 - The Young Diplomats Magnet Academy,Elementary,4.0
+86,M243,M.S. 243 Center School,Middle,4.0
+87,M245,M.S. M245 The Computer School,Middle,4.0
+88,M247,M.S. M247 Dual Language Middle School,Middle,5.0
+89,M250,M.S. 250 West Side Collaborative Middle School,Middle,5.0
+90,M256,M.S. 256 Academic & Athletic Excellence,Middle,2.0
+91,M258,Community Action School - MS 258,Middle,4.0
+92,M333,P.S. 333 Manhattan School for Children,K-8,5.0
+93,M334,The Anderson School,K-8,5.0
+94,M415,Wadleigh Secondary School for the Performing & Visual Arts,Middle,2.0
+95,M421,WEST PREP ACADEMY,Middle,4.0
+96,M859,Special Music School,K-8,5.0
+97,M860,Frederick Douglass Academy II Secondary School,Middle,3.0
+98,M862,Mott Hall II,Middle,3.0
+99,M007,P.S. 007 Samuel Stern,K-8,5.0
+100,M012,Tag Young Scholars,K-8,5.0
+101,M013,J.H.S. 013 Jackie Robinson,Middle,
+102,M037,River East Elementary,Elementary,4.0
+103,M038,P.S. 38 Roberto Clemente,Elementary,3.0
+104,M045,M.S. 45/S.T.A.R.S. Prep Academy,Middle,
+105,M050,P.S. 050 Vito Marcantonio,K-8,5.0
+106,M057,James Weldon Johnson,K-8,4.0
+107,M072,The Lexington Academy,Elementary,5.0
+108,M083,P.S. 083 Luis Munoz Rivera,Elementary,5.0
+109,M096,P.S. 096 Joseph Lanzetta,K-8,3.0
+110,M102,P.S. 102 Jacques Cartier,Elementary,3.0
+111,M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,K-8,4.0
+112,M146,P.S. 146 Ann M. Short,Elementary,5.0
+113,M155,P.S. 155 William Paca,Elementary,4.0
+114,M171,P.S. 171 Patrick Henry,K-8,5.0
+115,M182,The Bilingual Bicultural School,Elementary,4.0
+116,M206,P.S. 206 Jose Celso Barbosa,K-8,5.0
+117,M224,M.S. 224 Manhattan East School for Arts & Academics,Middle,4.0
+118,M372,ESPERANZA PREPARATORY ACADEMY,Middle,3.0
+119,M375,Mosaic Preparatory Academy,Elementary,4.0
+120,M377,Renaissance School of the Arts,Middle,5.0
+121,M381,Global Neighborhood Secondary School,Middle,5.0
+122,M406,GLOBAL TECHNOLOGY PREPARATORY,Middle,5.0
+123,M497,Central Park East I,Elementary,4.0
+124,M610,Young Women's Leadership School,Middle,4.0
+125,M825,Isaac Newton Middle School for Math & Science,Middle,3.0
+126,M964,Central Park East II,Elementary,5.0
+127,M030,P.S. 030 Hernandez/Hughes,Elementary,5.0
+128,M036,P.S. 036 Margaret Douglas,Elementary,3.0
+129,M046,P.S. 046 Arthur Tappan,K-8,4.0
+130,M092,P.S. 092 Mary McLeod Bethune,Elementary,4.0
+131,M123,P.S. 123 Mahalia Jackson,K-8,3.0
+132,M125,P.S. 125 Ralph Bunche,Elementary,5.0
+133,M129,P.S. 129 John H. Finley,K-8,3.0
+134,M133,P.S. 133 Fred R Moore,Elementary,2.0
+135,M154,P.S. 154 Harriet Tubman,Elementary,4.0
+136,M161,P.S. 161 Pedro Albizu Campos,K-8,4.0
+137,M175,P.S. 175 Henry H Garnet,Elementary,3.0
+138,M194,P.S. 194 Countee Cullen,Elementary,1.0
+139,M195,I.S. 195 Roberto Clemente,Middle,
+140,M197,P.S. 197 John B. Russwurm,Elementary,3.0
+141,M200,P.S. 200- The James Mccune Smith School,Elementary,2.0
+142,M286,I.S. M286 Renaissance Leadership Academy,Middle,4.0
+143,M302,KAPPA IV,Middle,4.0
+144,M318,Thurgood Marshall Academy Lower School,Elementary,5.0
+145,M362,Columbia Secondary School,Middle,4.0
+146,M367,Academy for Social Action: A College Board School,Middle,
+147,M410,THE URBAN ASSEMBLY INSTITUTE FOR NEW TECHNOLOGIES,Middle,4.0
+148,M469,Choir Academy of Harlem,Middle,
+149,M499,Frederick Douglass Academy,Middle,1.0
+150,M514,New Design Middle School,Middle,3.0
+151,M670,Thurgood Marshall Academy for Learning and Social Change,Middle,1.0
+152,M004,P.S. 004 Duke Ellington,Elementary,2.0
+153,M005,P.S. 005 Ellen Lurie,Elementary,3.0
+154,M008,P.S. 008 Luis Belliard,Elementary,4.0
+155,M018,P.S. 018 Park Terrace,K-8,3.0
+156,M028,P.S. 028 Wright Brothers,Elementary,5.0
+157,M048,P.S. 048 P.O. Michael J. Buczek,Elementary,4.0
+158,M052,J.H.S. 052 Inwood,Middle,4.0
+159,M098,P.S. 098 Shorac Kappock,Elementary,4.0
+160,M115,P.S. 115 Alexander Humboldt,Elementary,3.0
+161,M128,P.S. 128 Audubon,Elementary,5.0
+162,M132,P.S. 132 Juan Pablo Duarte,Elementary,3.0
+163,M143,J.H.S. 143 Eleanor Roosevelt,Middle,3.0
+164,M152,P.S. 152 Dyckman Valley,Elementary,1.0
+165,M153,P.S. 153 Adam Clayton Powell,Elementary,4.0
+166,M173,P.S. 173,Elementary,4.0
+167,M187,P.S./I.S. 187 Hudson Cliffs,K-8,5.0
+168,M189,P.S. 189,Elementary,4.0
+169,M192,P.S. 192 Jacob H. Schiff,Elementary,4.0
+170,M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,K-8,5.0
+171,M218,I.S. 218 Salome Urena,Middle,3.0
+172,M223,The Mott Hall School,Middle,3.0
+173,M278,Paula Hedbavny School,K-8,4.0
+174,M293,City College Academy of the Arts,Middle,4.0
+175,M311,Amistad Dual Language School,K-8,5.0
+176,M314,Muscota,Elementary,4.0
+177,M319,M.S. 319 - Maria Teresa,Middle,5.0
+178,M322,Middle School 322,Middle,5.0
+179,M324,M.S. 324 - Patria Mirabal,Middle,5.0
+180,M325,P.S. 325,Elementary,1.0
+181,M326,M.S. 326 - Writers Today & Leaders Tomorrow,Middle,3.0
+182,M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,Middle,2.0
+183,M346,Community Health Academy of the Heights,Middle,3.0
+184,M348,Washington Heights Expeditionary Learning School,Middle,5.0
+185,M349,Harbor Heights,Middle,3.0
+186,M366,Washington Heights Academy,Elementary,5.0
+187,M368,Hamilton Heights School,Elementary,1.0
+188,M528,I.S. 528 Bea Fuller Rodgers School,Middle,3.0
+189,X001,P.S. 001 Courtlandt School,Elementary,4.0
+190,X005,PS 5 Port Morris,Elementary,3.0
+191,X018,P.S. 018 John Peter Zenger,Elementary,3.0
+192,X025,P.S. 025 Bilingual School,Elementary,4.0
+193,X029,P.S./M.S. 029 Melrose School,K-8,4.0
+194,X030,P.S. 030 Wilton,Elementary,4.0
+195,X031,P.S./M.S. 031 The William Lloyd Garrison,K-8,4.0
+196,X043,P.S. 043 Jonas Bronck,Elementary,4.0
+197,X049,P.S. 049 Willis Avenue,Elementary,2.0
+198,X065,P.S. 065 Mother Hale Academy,Elementary,4.0
+199,X151,J.H.S. 151 Lou Gehrig,Middle,4.0
+200,X154,P.S. 154 Jonathan D. Hyatt,Elementary,3.0
+201,X157,P.S. 157 Grove Hill,Elementary,4.0
+202,X161,P.S. 161 Ponce De Leon,Elementary,4.0
+203,X162,J.H.S. 162 Lola Rodriguez De Tio,Middle,3.0
+204,X179,P.S. 179,Elementary,4.0
+205,X203,M.S. 203,Middle,
+206,X221,South Bronx Preparatory: A College Board School,Middle,4.0
+207,X223,M.S. 223 The Laboratory School of Finance and Technology,Middle,5.0
+208,X224,P.S. / I.S. 224,Middle,5.0
+209,X277,P.S. 277,Elementary,4.0
+210,X296,South Bronx Academy for Applied Media,Middle,3.0
+211,X298,Academy of Public Relations,Middle,3.0
+212,X343,Academy of Applied Mathematics and Technology,Middle,4.0
+213,X369,Young Leaders Elementary School,Elementary,3.0
+214,X385,Performance School,Elementary,
+215,X500,Hostos-Lincoln Academy of Science,Middle,2.0
+216,X551,The Urban Assembly Bronx Academy of Letters,Middle,1.0
+217,X014,P.S. X014 Senator John Calandra,Elementary,4.0
+218,X036,P.S. 036 Unionport,Elementary,5.0
+219,X048,P.S. 048 Joseph R. Drake,Elementary,4.0
+220,X062,P.S. 062 Inocensio Casanova,Elementary,3.0
+221,X069,P.S. 069 Journey Prep School,Elementary,5.0
+222,X071,P.S. 071 Rose E. Scala,K-8,4.0
+223,X072,P.S. 072 Dr. William Dorney,Elementary,3.0
+224,X075,P.S. 75 School of Research and Discovery,Elementary,4.0
+225,X093,P.S. 093 Albert G. Oliver,Elementary,5.0
+226,X100,P.S. 100 Isaac Clason,Elementary,3.0
+227,X101,M.S. X101 Edward R. Byrne,Middle,3.0
+228,X107,P.S. 107,Elementary,3.0
+229,X119,P.S. 119,Elementary,2.0
+230,X123,J.H.S. 123 James M. Kieran,Middle,3.0
+231,X125,J.H.S. 125 Henry Hudson,Middle,4.0
+232,X130,P.S. 130 Abram Stevens Hewitt,Elementary,4.0
+233,X131,J.H.S. 131 Albert Einstein,Middle,4.0
+234,X138,P.S. 138 Samuel Randall,Elementary,4.0
+235,X140,P.S. X140 The Eagle School,Elementary,3.0
+236,X146,P.S. 146 Edward Collins,Elementary,2.0
+237,X152,P.S. 152 Evergreen,Elementary,3.0
+238,X182,P.S. 182,Elementary,4.0
+239,X269,Bronx Studio School for Writers and Artists,Middle,3.0
+240,X301,M.S. 301 Paul L. Dunbar,Middle,3.0
+241,X302,M.S. 302 Luisa Dessus Cruz,Middle,4.0
+242,X304,P.S. 304 Early Childhood School,Elementary,4.0
+243,X333,P.S. 333 - The Museum School,Elementary,3.0
+244,X335,The Academy of the Arts,Elementary,3.0
+245,X337,The School for Inquiry and Social Justice,Middle,5.0
+246,X366,Urban Assembly Academy of Civic Engagement,Middle,4.0
+247,X367,"Archimedes Academy for Math, Science and Technology Applications",Middle,1.0
+248,X371,Urban Institute of Mathematics,Middle,1.0
+249,X375,The Bronx Mathematics Preparatory School,Middle,3.0
+250,X376,Antonia Pantoja Preparatory Academy: A College Board School,Middle,4.0
+251,X424,The Hunts Point School,Middle,3.0
+252,X448,SOUNDVIEW ACADEMY FOR CULTURE AND SCHOLARSHIP,Middle,5.0
+253,X467,MOTT HALL COMMUNITY SCHOOL,Middle,4.0
+254,X562,Blueprint Middle School,Middle,
+255,X004,P.S./M.S. 004 Crotona Park West,K-8,5.0
+256,X011,P.S. 011 Highbridge,Elementary,4.0
+257,X022,J.H.S. 022 Jordan L. Mott,Middle,3.0
+258,X028,P.S. 028 Mount Hope,Elementary,4.0
+259,X035,P.S. 035 Franz Siegel,Elementary,5.0
+260,X042,P.S. 042 Claremont,Elementary,3.0
+261,X053,P.S. 053 Basheer Quisim,Elementary,4.0
+262,X055,P.S. 055 Benjamin Franklin,Elementary,2.0
+263,X058,P.S. 058,Elementary,3.0
+264,X063,P.S. 063 Author's Academy,Elementary,4.0
+265,X064,P.S. 064 Pura Belpre,Elementary,
+266,X070,P.S. 070 Max Schoenfeld,Elementary,1.0
+267,X073,P.S. 073 Bronx,Elementary,2.0
+268,X109,P.S. 109 Sedgwick,Elementary,4.0
+269,X110,P.S. 110 Theodore Schoenfeld,Elementary,5.0
+270,X114,P.S. X114 - Luis Llorens Torres Schools,Elementary,3.0
+271,X117,I.S. 117 Joseph H. Wade,Middle,3.0
+272,X126,P.S. 126 Dr Marjorie H Dunbar,Elementary,2.0
+273,X128,Mott Hall III,Middle,4.0
+274,X132,P.S. 132 Garret A. Morgan,Elementary,3.0
+275,X145,J.H.S. 145 Arturo Toscanini,Middle,5.0
+276,X163,P.S. 163 Arthur A. Schomburg,Elementary,4.0
+277,X199,P.S. 199X - The Shakespeare School,Elementary,4.0
+278,X204,P.S. 204 Morris Heights,Elementary,5.0
+279,X215,Kappa,Middle,4.0
+280,X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,K-8,4.0
+281,X219,I.S. 219 New Venture School,Middle,3.0
+282,X229,I.S. 229 Roland Patterson,Middle,4.0
+283,X230,P.S. 230 Dr Roland N. Patterson,Elementary,
+284,X231,Eagle Academy for Young Men,Middle,3.0
+285,X232,I.S. 232,Middle,5.0
+286,X241,"Urban Assembly School for Applied Math and Science, The",Middle,4.0
+287,X303,I.S. X303 Leadership & Community Service,Middle,5.0
+288,X313,I.S. 313 School of Leadership Development,Middle,3.0
+289,X323,Bronx Writing Academy,Middle,5.0
+290,X324,Bronx Early College Academy for Teaching & Learning,Middle,2.0
+291,X325,Urban Science Academy,Middle,2.0
+292,X327,Comprehensive Model School Project M.S. 327,Middle,5.0
+293,X328,New Millennium Business Academy Middle School,Middle,3.0
+294,X339,I.S. 339,Middle,4.0
+295,X413,Bronx High School for Medical Science,Middle,4.0
+296,X443,THE FAMILY SCHOOL,Elementary,3.0
+297,X449,GRANT AVENUE ELEMENTARY SCHOOL,Elementary,2.0
+298,X454,SCIENCE AND TECHNOLOGY ACADEMY: A MOTT HALL SCHOOL,Middle,5.0
+299,X457,SHERIDAN ACADEMY FOR YOUNG LEADERS,Elementary,3.0
+300,X505,"Bronx School for Law, Government and Justice",Middle,4.0
+301,X517,Frederick Douglass Academy III Secondary School,Middle,
+302,X568,Young Women's Leadership School of the Bronx,Middle,
+303,X003,P.S. 3 Raul Julia Micro Society,K-8,4.0
+304,X007,P.S. 007 Kingsbridge,Elementary,5.0
+305,X008,P.S. 008 Issac Varian,Elementary,5.0
+306,X009,P.S. 9 Ryer Avenue Elementary School,Elementary,4.0
+307,X015,P.S. X015 Institute for Environmental Learning,K-8,4.0
+308,X020,P.S. 20 P.O.George J. Werdan III,K-8,3.0
+309,X023,P.S. 023 The New Children's School,Elementary,4.0
+310,X024,P.S. 024 Spuyten Duyvil,Elementary,3.0
+311,X032,P.S. 032 Belmont,Elementary,5.0
+312,X033,P.S. 033 Timothy Dwight,Elementary,3.0
+313,X037,P.S. X037 - Multiple Intelligence School,K-8,5.0
+314,X045,Thomas C. Giordano Middle School 45,Middle,3.0
+315,X046,P.S. 046 Edgar Allan Poe,Elementary,4.0
+316,X051,P.S. 051 Bronx New School,Elementary,4.0
+317,X054,P.S. / I.S. 54,Elementary,3.0
+318,X056,P.S. 056 Norwood Heights,Elementary,5.0
+319,X059,P.S. 059 The Community School of Technology,Elementary,4.0
+320,X080,J.H.S. 080 The Mosholu Parkway,Middle,3.0
+321,X081,P.S. 081 Robert J. Christen,Elementary,5.0
+322,X085,P.S. 085 Great Expectations,Elementary,3.0
+323,X086,P.S. 086 Kingsbridge Heights,Elementary,5.0
+324,X091,P.S. 091 Bronx,Elementary,3.0
+325,X094,P.S. 094 Kings College School,Elementary,3.0
+326,X095,P.S. 095 Sheila Mencher,K-8,4.0
+327,X118,J.H.S. 118 William W. Niles,Middle,5.0
+328,X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),Middle,4.0
+329,X159,P.S. 159 Luis Munoz Marin Biling,Elementary,5.0
+330,X205,P.S. 205 Fiorello Laguardia,Elementary,3.0
+331,X206,I.S. 206 Ann Mersereau,Middle,4.0
+332,X225,Theatre Arts Production Company School,Middle,4.0
+333,X226,P.S. 226,Elementary,3.0
+334,X228,Jonas Bronck Academy,Middle,5.0
+335,X243,West Bronx Academy for the Future,Middle,5.0
+336,X244,The New School for Leadership and Journalism,Middle,5.0
+337,X246,P.S. 246 Poe Center,Elementary,3.0
+338,X254,I.S. 254,Middle,4.0
+339,X279,"P.S. 279 Captain Manuel Rivera, Jr.",K-8,3.0
+340,X280,P.S./M.S. 280 Mosholu Parkway,K-8,4.0
+341,X291,P.S. 291,Elementary,5.0
+342,X306,P.S. 306,Elementary,4.0
+343,X307,Luisa Pineiro Fuentes School of Science and Discovery,Elementary,5.0
+344,X308,Bronx Dance Academy School,Middle,4.0
+345,X310,P.S. 310 Marble Hill,Elementary,4.0
+346,X315,P.S. 315 Lab School,K-8,3.0
+347,X331,The Bronx School of Young Leaders,Middle,4.0
+348,X340,P.S. 340,Elementary,5.0
+349,X342,International School for Liberal Arts,Middle,5.0
+350,X344,Ampark Neighborhood,Elementary,3.0
+351,X360,P.S. 360,Elementary,3.0
+352,X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,Middle,5.0
+353,X368,In-Tech Academy (M.S. / High School 368),Middle,4.0
+354,X382,"Elementary School for Math, Science, and Technology",Elementary,4.0
+355,X386,School for Environmental Citizenship,Elementary,5.0
+356,X390,M.S. 390,Middle,5.0
+357,X391,The Angelo Patri Middle School,Middle,3.0
+358,X396,P.S. 396,Elementary,4.0
+359,X447,CRESTON ACADEMY,Middle,5.0
+360,X459,EAST FORDHAM ACADEMY FOR THE ARTS,Middle,3.0
+361,X016,P.S. 016 Wakefield,Elementary,3.0
+362,X019,P.S. 019 Judith K. Weiss,K-8,4.0
+363,X021,P.S. 021 Philip H. Sheridan,Elementary,2.0
+364,X041,P.S. 041 Gun Hill Road,Elementary,5.0
+365,X068,P.S. 068 Bronx,Elementary,3.0
+366,X076,P.S. 076 The Bennington School,Elementary,2.0
+367,X078,P.S. 078 Anne Hutchinson,Elementary,4.0
+368,X083,P.S. 083 Donald Hertz,K-8,3.0
+369,X087,P.S. 087 Bronx,Elementary,4.0
+370,X089,P.S. 089 Bronx,K-8,5.0
+371,X096,P.S. 096 Richard Rodgers,Elementary,2.0
+372,X097,P.S. 097 Bronx,Elementary,4.0
+373,X103,P.S. 103 Hector Fontanez,Elementary,2.0
+374,X105,P.S. 105 Sen Abraham Bernstein,Elementary,3.0
+375,X106,P.S. 106 Parkchester,Elementary,3.0
+376,X108,P.S. 108 Philip J. Abinanti,Elementary,3.0
+377,X111,P.S. 111 Seton Falls,Elementary,3.0
+378,X112,P.S. 112 Bronxwood,Elementary,1.0
+379,X121,P.S. 121 Throop,Elementary,5.0
+380,X127,J.H.S. 127 The Castle Hill,Middle,4.0
+381,X142,MS 142 John Philip Sousa,Middle,
+382,X144,J.H.S. 144 Michelangelo,Middle,4.0
+383,X153,P.S. 153 Helen Keller,Elementary,5.0
+384,X160,P.S. 160 Walt Disney,Elementary,3.0
+385,X169,BAYCHESTER ACADEMY,Elementary,4.0
+386,X175,P.S. 175 City Island,K-8,3.0
+387,X178,P.S. 178 - Dr. Selman Waksman,Elementary,4.0
+388,X180,M.S. 180 Dr. Daniel Hale Williams,Middle,3.0
+389,X181,I.S. 181 Pablo Casals,Middle,3.0
+390,X189,Cornerstone Academy for Social Action,Elementary,4.0
+391,X194,PS/MS 194,K-8,4.0
+392,X270,Academy for Scholarship and Entrepreneurship: A College Board School,Middle,
+393,X272,Globe School for Environmental Research,Middle,4.0
+394,X287,The Forward School,Middle,3.0
+395,X289,The Young Scholars Academy of The Bronx,Middle,3.0
+396,X322,Aspire Preparatory Middle School,Middle,
+397,X326,Bronx Green Middle School,Middle,4.0
+398,X370,School of Diplomacy,Middle,2.0
+399,X462,CORNERSTONE ACADEMY FOR SOCIAL ACTION MIDDLE SCHOOL (CASA),Middle,4.0
+400,X468,PELHAM ACADEMY OF ACADEMICS AND COMMUNITY ENGAGEMENT,Middle,3.0
+401,X498,PS/MS 11X498 - VAN NEST ACADEMY,K-8,5.0
+402,X529,One World Middle School at Edenwald,Middle,3.0
+403,X532,Baychester Middle School,Middle,3.0
+404,X556,Bronx Park Middle School,Middle,
+405,X566,Pelham Gardens Middle School,Middle,
+406,X006,P.S. 006 West Farms,Elementary,3.0
+407,X044,P.S. 044 David C. Farragut,Elementary,4.0
+408,X047,P.S. 047 John Randolph,Elementary,3.0
+409,X050,P.S. 050 Clara Barton,Elementary,
+410,X057,P.S. 057 Crescent,Elementary,3.0
+411,X061,P.S. 061 Francisco Oller,Elementary,4.0
+412,X066,P.S. 066 School of Higher Expectations,Elementary,4.0
+413,X067,P.S. 067 Mohegan School,Elementary,3.0
+414,X092,P.S. 092 Bronx,Elementary,3.0
+415,X098,J.H.S. 098 Herman Ridder,Middle,5.0
+416,X102,P.S. 102 Joseph O. Loretan,Elementary,
+417,X129,P.S. 129 Twin Parks Upper,Middle,5.0
+418,X134,P.S. 134 George F. Bristow,Elementary,4.0
+419,X150,P.S. 150 Charles James Fox,Elementary,4.0
+420,X190,E.S.M.T- I.S. 190,Middle,2.0
+421,X195,P.S. 195,Elementary,2.0
+422,X196,P.S. 196,Elementary,5.0
+423,X211,P.S. 211,K-8,4.0
+424,X212,P.S. 212,K-8,1.0
+425,X214,P.S. 214,K-8,4.0
+426,X217,School of Performing Arts,Middle,3.0
+427,X242,Mott Hall V,Middle,4.0
+428,X245,New Day Academy,Middle,
+429,X267,Bronx Latin,Middle,5.0
+430,X271,East Bronx Academy for the Future,Middle,4.0
+431,X273,Frederick Douglass Academy V. Middle School,Middle,4.0
+432,X286,Fannie Lou Hamer Middle School,Middle,3.0
+433,X300,The School of Science and Applied Learning,Elementary,5.0
+434,X316,Kappa III,Middle,4.0
+435,X318,"I.S. X318 Math, Science & Technology Through Arts",Middle,5.0
+436,X341,Accion Academy,Middle,4.0
+437,X372,Urban Assembly School for Wildlife Conservation,Middle,4.0
+438,X383,Emolior Academy,Middle,4.0
+439,X384,Entrada Academy,Middle,3.0
+440,X463,URBAN SCHOLARS COMMUNITY SCHOOL,Elementary,3.0
+441,X691,Bronx Little School,Elementary,3.0
+442,K003,P.S. 003 The Bedford Village,Elementary,3.0
+443,K008,P.S. 008 Robert Fulton,Elementary,3.0
+444,K009,P.S. 009 Teunis G. Bergen,Elementary,4.0
+445,K011,P.S. 011 Purvis J. Behan,Elementary,5.0
+446,K020,P.S. 020 Clinton Hill,Elementary,4.0
+447,K044,P.S. 044 Marcus Garvey,Elementary,3.0
+448,K046,P.S. 046 Edward C. Blum,Elementary,5.0
+449,K054,P.S. 054 Samuel C. Barnes,Elementary,4.0
+450,K056,P.S. 056 Lewis H. Latimer,Elementary,5.0
+451,K067,P.S. 067 Charles A. Dorsey,Elementary,1.0
+452,K093,P.S. 093 William H. Prescott,Elementary,2.0
+453,K103,Satellite Three,Middle,
+454,K113,M.S. 113 Ronald Edmonds Learning Center,Middle,1.0
+455,K133,P.S. 133 William A. Butler,Elementary,3.0
+456,K256,P.S. 256 Benjamin Banneker,Elementary,5.0
+457,K265,Dr. Susan S. McKinney Secondary School of the Arts,Middle,3.0
+458,K266,M.S. K266 - Park Place Community Middle School,Middle,3.0
+459,K270,P.S. 270 Johann DeKalb,Elementary,2.0
+460,K282,P.S. 282 Park Slope,K-8,3.0
+461,K287,P.S. 287 Bailey K. Ashford,Elementary,3.0
+462,K301,Satellite East Middle School,Middle,3.0
+463,K305,P.S. 305 Dr. Peter Ray,Elementary,3.0
+464,K307,P.S. 307 Daniel Hale Williams,Elementary,3.0
+465,K313,Satellite West Middle School,Middle,4.0
+466,K351,The Urban Assembly Unison School,Middle,
+467,K492,Academy of Arts and Letters,Middle,4.0
+468,K527,Urban Assembly Institute of Math and Science for Young Women,Middle,3.0
+469,K571,M.S. 571,Middle,
+470,K596,MS 596 Peace Academy,Middle,4.0
+471,K691,FORT GREENE PREPARATORY ACADEMY,Middle,3.0
+472,K016,P.S. 016 Leonard Dunkly,Elementary,3.0
+473,K017,P.S. 017 Henry D. Woodworth,Elementary,4.0
+474,K018,P.S. 018 Edward Bush,Elementary,3.0
+475,K019,P.S. 019 Roberto Clemente,Elementary,
+476,K023,P.S. 023 Carter G. Woodson,Elementary,4.0
+477,K031,P.S. 031 Samuel F. Dupont,Elementary,5.0
+478,K034,P.S. 034 Oliver H. Perry,Elementary,4.0
+479,K050,J.H.S. 050 John D. Wells,Middle,4.0
+480,K059,P.S. 059 William Floyd,Elementary,3.0
+481,K071,Juan Morel Campos Secondary School,Middle,3.0
+482,K084,P.S. 084 Jose De Diego,Elementary,3.0
+483,K110,P.S. 110 The Monitor,Elementary,3.0
+484,K120,P.S. 120 Carlos Tapia,Elementary,4.0
+485,K126,John Ericsson Middle School 126,Middle,5.0
+486,K132,P.S. 132 The Conselyea School,Elementary,3.0
+487,K147,P.S. 147 Isaac Remsen,Elementary,3.0
+488,K157,P.S. 157 Benjamin Franklin,K-8,4.0
+489,K196,P.S. 196 Ten Eyck,Elementary,5.0
+490,K250,P.S. 250 George H. Lindsay,Elementary,3.0
+491,K257,P.S. 257 John F. Hylan,Elementary,5.0
+492,K297,P.S. 297 Abraham Stockton,Elementary,4.0
+493,K318,I.S. 318 Eugenio Maria De Hostos,Middle,3.0
+494,K330,The Urban Assembly School for the Urban Environment,Middle,4.0
+495,K380,P.S. 380 John Wayne Elementary,Elementary,5.0
+496,K577,Conselyea Preparatory School,Middle,3.0
+497,K582,M.S. 582,Middle,5.0
+498,K586,Lyons Community School,Middle,2.0
+499,K614,Young Women's Leadership School of Brooklyn,Middle,3.0
+500,K001,P.S. 001 The Bergen,Elementary,4.0
+501,K010,"Magnet School of Math, Science and Design Technology",Elementary,5.0
+502,K015,P.S. 015 Patrick F. Daly,Elementary,
+503,K024,P.S. 024,Elementary,3.0
+504,K029,P.S. 029 John M. Harrigan,Elementary,5.0
+505,K032,P.S. 032 Samuels Mills Sprole,Elementary,3.0
+506,K038,P.S. 038 The Pacific,Elementary,3.0
+507,K039,P.S. 039 Henry Bristow,Elementary,5.0
+508,K051,M.S. 51 William Alexander,Middle,5.0
+509,K058,P.S. 058 The Carroll,Elementary,4.0
+510,K088,J.H.S. 088 Peter Rouget,Middle,5.0
+511,K094,P.S. 094 The Henry Longfellow,Elementary,3.0
+512,K107,P.S. 107 John W. Kimball,Elementary,4.0
+513,K124,P.S. 124 Silas B. Dutcher,Elementary,4.0
+514,K130,P.S. 130 The Parkside,Elementary,4.0
+515,K131,P.S. 131 Brooklyn,Elementary,5.0
+516,K136,I.S. 136 Charles O. Dewey,Middle,4.0
+517,K146,P.S. 146,Elementary,5.0
+518,K154,Magnet School for Science & Technology,Elementary,3.0
+519,K169,P.S. 169 Sunset Park,Elementary,3.0
+520,K172,P.S. 172 Beacon School of Excellence,Elementary,5.0
+521,K230,P.S. 230 Doris L. Cohen,Elementary,4.0
+522,K261,P.S. 261 Philip Livingston,Elementary,3.0
+523,K295,P.S. 295,Elementary,5.0
+524,K321,P.S. 321 William Penn,Elementary,5.0
+525,K418,The Children's School,Elementary,4.0
+526,K429,Brooklyn School for Global Studies,Middle,3.0
+527,K442,M.S. 442 Carroll Gardens School for Innovation,Middle,5.0
+528,K443,New Voices School of Academic & Creative Arts,Middle,5.0
+529,K447,The Math & Science Exploratory School,Middle,4.0
+530,K448,Brooklyn Secondary School for Collaborative Studies,Middle,3.0
+531,K462,Secondary School for Law,Middle,
+532,K463,Secondary School for Journalism,Middle,
+533,K464,Park Slope Collegiate,Middle,3.0
+534,K497,School for International Studies,Middle,2.0
+535,K592,Khalil Gibran International Academy,Middle,
+536,K676,RED HOOK NEIGHBORHOOD SCHOOL,Elementary,4.0
+537,K821,Sunset Park Prep,Middle,5.0
+538,K005,P.S. 005 Dr. Ronald Mcnair,Elementary,2.0
+539,K021,P.S. 021 Crispus Attucks,Elementary,4.0
+540,K025,P.S. 025 Eubie Blake School,Elementary,2.0
+541,K026,P.S. 026 Jesse Owens,Elementary,5.0
+542,K028,P.S. 028 The Warren Prep Academy,Elementary,2.0
+543,K035,M.S. 035 Stephen Decatur,Middle,3.0
+544,K040,P.S. 040 George W. Carver,Elementary,5.0
+545,K057,J.H.S. 057 Whitelaw Reid,Middle,4.0
+546,K081,P.S. 081 Thaddeus Stevens,Elementary,5.0
+547,K243,P.S. 243K- The Weeksville School,Elementary,4.0
+548,K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,K-8,3.0
+549,K267,"M.S. 267 Math, Science & Technology",Middle,3.0
+550,K308,P.S. 308 Clara Cardwell,K-8,5.0
+551,K309,P.S. 309 The George E. Wibecan Preparatory Academy,Elementary,3.0
+552,K335,P.S. 335 Granville T. Woods,Elementary,2.0
+553,K385,"School of Business, Finance and Entrepreneurship",Middle,2.0
+554,K393,Frederick Douglass Academy IV Secondary School,Middle,
+555,K534,Upper School @ P.S. 25,Middle,3.0
+556,K584,M.S. 584,Middle,3.0
+557,K627,Brighter Choice Community School,Elementary,5.0
+558,K628,Brooklyn Brownstone School,Elementary,4.0
+559,K636,Young Scholars' Academy for Discovery and Exploration,Elementary,3.0
+560,K681,Madiba Prep Middle School,Middle,
+561,K002,Parkside Preparatory Academy,Middle,3.0
+562,K006,P.S. 006,Elementary,4.0
+563,K012,Dr. Jacqueline Peek-Davis School,Elementary,1.0
+564,K022,P.S. 022,Elementary,
+565,K061,M.S. 061 Dr. Gladstone H. Atwell,Middle,2.0
+566,K091,P.S. 091 The Albany Avenue School,Elementary,3.0
+567,K092,P.S. 092 Adrian Hegeman,Elementary,3.0
+568,K138,P.S. 138 Brooklyn,K-8,5.0
+569,K161,P.S. 161 The Crown,K-8,4.0
+570,K167,P.S. 167 The Parkway,Elementary,
+571,K181,P.S. 181 Brooklyn,K-8,3.0
+572,K189,P.S. 189 Lincoln Terrace,K-8,3.0
+573,K191,P.S. 191 Paul Robeson,Elementary,2.0
+574,K221,P.S. 221 Toussaint L'Ouverture,Elementary,4.0
+575,K241,P.S. 241 Emma L. Johnston,Elementary,4.0
+576,K246,M.S. 246 Walt Whitman,Middle,4.0
+577,K249,P.S. 249 The Caton,Elementary,5.0
+578,K289,P.S. 289 George V. Brower,Elementary,5.0
+579,K316,P.S. 316 Elijah Stroud,Elementary,5.0
+580,K334,Middle School for Academic and Social Excellence,Middle,3.0
+581,K340,I.S. 340,Middle,3.0
+582,K352,Ebbets Field Middle School,Middle,3.0
+583,K353,Elijah Stroud Middle School,Middle,2.0
+584,K354,The School of Integrated Learning,Middle,5.0
+585,K375,P.S. 375 Jackie Robinson School,Elementary,4.0
+586,K382,Academy for College Preparation and Career Exploration: A College Board School,Middle,2.0
+587,K394,M.S. K394,K-8,4.0
+588,K397,P.S. 397 Foster-Laurie,Elementary,3.0
+589,K398,P.S. 398 Walter Weaver,Elementary,4.0
+590,K399,P.S. 399 Stanley Eugene Clark,Elementary,3.0
+591,K484,Ronald Edmonds Learning Center II,Middle,4.0
+592,K531,"School for Human Rights, The",Middle,4.0
+593,K533,School for Democracy and Leadership,Middle,2.0
+594,K543,"Science, Technology and Research Early College High School at Erasmus",Middle,3.0
+595,K587,Middle School for the Arts,Middle,
+596,K590,Medgar Evers College Preparatory School,Middle,4.0
+597,K722,New Heights Middle School,Middle,
+598,K066,P.S. 66,K-8,4.0
+599,K068,I.S. 068 Isaac Bildersee,Middle,3.0
+600,K114,P.S. 114 Ryder Elementary,Elementary,3.0
+601,K115,P.S. 115 Daniel Mucatel School,Elementary,3.0
+602,K135,P.S. 135 Sheldon A. Brookner,Elementary,3.0
+603,K208,P.S. 208 Elsa Ebeling,Elementary,3.0
+604,K211,I.S. 211 John Wilson,Middle,
+605,K219,P.S. 219 Kennedy-King,Elementary,4.0
+606,K233,P.S. 233 Langston Hughes,Elementary,3.0
+607,K235,P.S. 235 Lenox School,K-8,4.0
+608,K244,P.S. 244 Richard R. Green,Elementary,4.0
+609,K268,P.S. 268 Emma Lazarus,Elementary,3.0
+610,K272,P.S. 272 Curtis Estabrook,Elementary,4.0
+611,K276,P.S. 276 Louis Marshall,Elementary,2.0
+612,K279,P.S. 279 Herman Schreiber,Elementary,3.0
+613,K285,I.S. 285 Meyer Levin,Middle,3.0
+614,K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,Middle,5.0
+615,K581,East Flatbush Community Research School,Middle,4.0
+616,K588,Middle School for Art and Philosophy,Middle,3.0
+617,K598,Middle School of Marketing and Legal Studies,Middle,3.0
+618,K007,P.S. 007 Abraham Lincoln,Elementary,3.0
+619,K013,P.S. 013 Roberto Clemente,Elementary,4.0
+620,K065,P.S. 065,Elementary,4.0
+621,K089,P.S. 089 Cypress Hills,K-8,4.0
+622,K108,P.S. 108 Sal Abbracciamento,Elementary,5.0
+623,K149,P.S. 149 Danny Kaye,Elementary,2.0
+624,K158,P.S. 158 Warwick,Elementary,3.0
+625,K159,P.S. 159 Isaac Pitkin,Elementary,3.0
+626,K166,J.H.S. 166 George Gershwin,Middle,
+627,K171,I.S. 171 Abraham Lincoln,Middle,4.0
+628,K174,P.S. 174 Dumont,K-8,
+629,K190,P.S. 190 Sheffield,Elementary,5.0
+630,K202,P.S. 202 Ernest S. Jenkyns,K-8,2.0
+631,K213,P.S. 213 New Lots,Elementary,2.0
+632,K214,P.S. 214 Michael Friedsam,Elementary,4.0
+633,K218,J.H.S. 218 James P. Sinnott,Middle,5.0
+634,K224,P.S. 224 Hale A. Woodruff,Elementary,3.0
+635,K260,P.S. 260 Breuckelen,Elementary,
+636,K273,P.S. 273 Wortman,Elementary,3.0
+637,K290,P.S. 290 Juan Morel Campos,Elementary,4.0
+638,K292,J.H.S. 292 Margaret S. Douglas,Middle,4.0
+639,K302,J.H.S. 302 Rafael Cordero,Middle,
+640,K306,P.S. 306 Ethan Allen,K-8,3.0
+641,K311,Essence School,Middle,3.0
+642,K328,P.S. 328 Phyllis Wheatley,K-8,3.0
+643,K345,P.S. 345 Patrolman Robert Bolden,Elementary,4.0
+644,K346,P.S. 346 Abe Stark,Elementary,4.0
+645,K364,I.S. 364 Gateway,Middle,3.0
+646,K409,East New York Family Academy,Middle,3.0
+647,K422,Spring Creek Community School,Middle,
+648,K452,Frederick Douglass Academy VIII Middle School,Middle,3.0
+649,K677,EAST NEW YORK ELEMENTARY SCHOOL OF EXCELLENCE,Elementary,3.0
+650,K678,EAST NEW YORK MIDDLE SCHOOL OF EXCELLENCE,Middle,3.0
+651,K030,I.S. 30 Mary White Ovington,Middle,4.0
+652,K048,P.S. 048 Mapleton,Elementary,3.0
+653,K062,J.H.S. 062 Ditmas,Middle,5.0
+654,K069,P.S. 69 Vincent D. Grippo School,Elementary,5.0
+655,K102,P.S. 102 The Bayview,Elementary,3.0
+656,K104,P.S./I.S. 104 The Fort Hamilton School,K-8,4.0
+657,K105,P.S. 105 The Blythebourne,Elementary,5.0
+658,K112,P.S. 112 Lefferts Park,Elementary,5.0
+659,K127,P.S. 127 Mckinley Park,Elementary,3.0
+660,K160,P.S. 160 William T. Sampson,Elementary,5.0
+661,K163,P.S. 163 Bath Beach,K-8,5.0
+662,K164,P.S. 164 Caesar Rodney,Elementary,5.0
+663,K170,Ralph A. Fabrizio School,Elementary,5.0
+664,K176,P.S. 176 Ovington,Elementary,5.0
+665,K179,P.S. 179 Kensington,Elementary,2.0
+666,K180,The SEEALL Academy,K-8,5.0
+667,K185,P.S. 185 Walter Kassenbrock,Elementary,3.0
+668,K186,P.S. 186 Dr. Irving A Gladstone,Elementary,4.0
+669,K187,The Christa McAuliffe School\I.S. 187,Middle,5.0
+670,K192,P.S. 192 - The Magnet School for Math and Science Inquiry,K-8,5.0
+671,K200,P.S. 200 Benson School,Elementary,4.0
+672,K201,J.H.S. 201 The Dyker Heights,Middle,5.0
+673,K204,P.S. 204 Vince Lombardi,Elementary,4.0
+674,K205,P.S. 205 Clarion,Elementary,3.0
+675,K220,J.H.S. 220 John J. Pershing,Middle,5.0
+676,K223,J.H.S. 223 The Montauk,Middle,5.0
+677,K227,J.H.S. 227 Edward B. Shallow,Middle,5.0
+678,K229,P.S. 229 Dyker,K-8,5.0
+679,K247,P.S. 247 Brooklyn,Elementary,5.0
+680,K259,J.H.S. 259 William Mckinley,Middle,5.0
+681,K503,PS 503: The School of Discovery,Elementary,4.0
+682,K506,P.S. 506: The School of Journalism & Technology,Elementary,5.0
+683,K609,Urban Assembly School for Criminal Justice,Middle,5.0
+684,K682,THE ACADEMY OF TALENTED SCHOLARS,Elementary,5.0
+685,K686,BROOKLYN SCHOOL OF INQUIRY,Elementary,4.0
+686,K090,P.S. 90 Edna Cohen School,Elementary,
+687,K095,P.S. 095 The Gravesend,K-8,5.0
+688,K096,I.S. 096 Seth Low,Middle,5.0
+689,K097,P.S. 97 The Highlawn,Elementary,5.0
+690,K098,I.S. 98 Bay Academy,Middle,5.0
+691,K099,P.S. 099 Isaac Asimov,K-8,2.0
+692,K100,P.S. 100 The Coney Island School,Elementary,3.0
+693,K101,P.S. 101 The Verrazano,Elementary,5.0
+694,K121,P.S. 121 Nelson A. Rockefeller,K-8,3.0
+695,K128,P.S. 128 Bensonhurst,Elementary,3.0
+696,K153,P.S. 153 Homecrest,Elementary,4.0
+697,K177,P.S. 177 The Marlboro,Elementary,4.0
+698,K188,P.S. 188 Michael E. Berdy,Elementary,
+699,K199,P.S. 199 Frederick Wachtel,Elementary,5.0
+700,K209,P.S. 209 Margaret Mead,K-8,5.0
+701,K212,P.S. 212 Lady Deborah Moody,Elementary,3.0
+702,K215,P.S. 215 Morris H. Weiss,Elementary,4.0
+703,K216,P.S. 216 Arturo Toscanini,Elementary,5.0
+704,K225,P.S. K225 - The Eileen E. Zaglin,K-8,4.0
+705,K226,P.S. 226 Alfred De B.Mason,K-8,4.0
+706,K228,I.S. 228 David A. Boody,Middle,4.0
+707,K238,P.S. 238 Anne Sullivan,K-8,5.0
+708,K239,Mark Twain I.S. 239 for the Gifted & Talented,Middle,4.0
+709,K253,P.S. 253,Elementary,5.0
+710,K281,I.S. 281 Joseph B Cavallaro,Middle,4.0
+711,K288,P.S. 288 The Shirley Tanyhill,K-8,
+712,K303,I.S. 303 Herbert S. Eisenberg,Middle,4.0
+713,K329,P.S. 329 Surfside,Elementary,
+714,K468,Kingsborough Early College School,Middle,5.0
+715,K690,Brooklyn Studio Secondary School,Middle,3.0
+716,K014,J.H.S. 014 Shell Bank,Middle,4.0
+717,K052,P.S. 052 Sheepshead Bay,Elementary,4.0
+718,K078,J.H.S. 078 Roy H. Mann,Middle,3.0
+719,K109,P.S. 109,K-8,4.0
+720,K119,P.S. 119 Amersfort,Elementary,4.0
+721,K134,P.S. K134,Elementary,5.0
+722,K139,P.S. 139 Alexine A. Fenty,Elementary,3.0
+723,K152,School of Science & Technology,Elementary,4.0
+724,K193,P.S. 193 Gil Hodges,Elementary,5.0
+725,K194,P.S. 194 Raoul Wallenberg,Elementary,4.0
+726,K195,P.S. 195 Manhattan Beach,Elementary,4.0
+727,K197,P.S. 197 - The Kings Highway Academy,Elementary,5.0
+728,K198,P.S. 198 Brooklyn,Elementary,4.0
+729,K203,P.S. 203 The School for Future Leaders,Elementary,4.0
+730,K206,P.S. 206 Joseph F Lamb,K-8,4.0
+731,K207,P.S. 207 Elizabeth G. Leary,K-8,3.0
+732,K217,P.S. 217 Colonel David Marcus School,Elementary,3.0
+733,K222,P.S. 222 Katherine R. Snyder,Elementary,4.0
+734,K234,J.H.S. 234 Arthur W. Cunningham,Middle,4.0
+735,K236,P.S. 236 Mill Basin,Elementary,3.0
+736,K240,Andries Hudde,Middle,3.0
+737,K245,P.S. 245,Elementary,4.0
+738,K251,P.S. 251 Paerdegat,Elementary,4.0
+739,K254,P.S. 254 Dag Hammarskjold,Elementary,4.0
+740,K255,P.S. 255 Barbara Reing School,Elementary,5.0
+741,K269,P.S. 269 Nostrand,Elementary,4.0
+742,K277,P.S. 277 Gerritsen Beach,Elementary,3.0
+743,K278,J.H.S. 278 Marine Park,Middle,3.0
+744,K312,P.S. 312 Bergen Beach,Elementary,3.0
+745,K315,P.S. K315,Elementary,4.0
+746,K381,I. S. 381,Middle,3.0
+747,K555,Brooklyn College Academy,Middle,5.0
+748,K041,P.S. 041 Francis White,K-8,3.0
+749,K073,P.S. 073 Thomas S. Boyland,K-8,
+750,K137,P.S./I.S. 137 Rachel Jean Mitchell,K-8,5.0
+751,K150,P.S. 150 Christopher,Elementary,3.0
+752,K155,P.S./ I.S. 155 Nicholas Herkimer,K-8,3.0
+753,K156,P.S. 156 Waverly,Elementary,4.0
+754,K165,P.S. 165 Ida Posner,K-8,3.0
+755,K178,P.S. 178 Saint Clair Mckelway,K-8,3.0
+756,K184,P.S. 184 Newport,K-8,3.0
+757,K284,P.S. 284 Lew Wallace,K-8,4.0
+758,K298,P.S. 298 Dr. Betty Shabazz,K-8,3.0
+759,K323,P.S./I.S. 323,K-8,3.0
+760,K327,P.S. 327 Dr. Rose B. English,K-8,3.0
+761,K332,P.S. 332 Charles H. Houston,K-8,
+762,K363,Brownsville Collaborative Middle School,Middle,
+763,K392,I.S. 392,Middle,4.0
+764,K493,Brooklyn Collegiate: A College Board School,Middle,
+765,K518,Kappa V,Middle,4.0
+766,K522,Mott Hall IV,Middle,2.0
+767,K631,General D. Chappie James Elementary School of Science,Elementary,
+768,K634,General D. Chappie James Middle School of Science,Middle,
+769,K644,Eagle Academy for Young Men II,Middle,3.0
+770,K671,MOTT HALL BRIDGES ACADEMY,Middle,5.0
+771,K697,Teachers Preparatory High School,Middle,3.0
+772,Q005,I.S. 5 - The Walter Crowley Intermediate School,Middle,4.0
+773,Q012,P.S. 012 James B. Colgate,Elementary,4.0
+774,Q013,P.S. 013 Clement C. Moore,Elementary,4.0
+775,Q014,P.S. 014 Fairview,Elementary,4.0
+776,Q016,P.S. Q016 The Nancy DeBenedittis School,Elementary,4.0
+777,Q019,P.S. 019 Marino Jeantet,Elementary,4.0
+778,Q049,P.S. 049 Dorothy Bonawit Kole,K-8,4.0
+779,Q058,P.S. 58 - School of Heroes,Elementary,4.0
+780,Q061,I.S. 061 Leonardo Da Vinci,Middle,3.0
+781,Q068,P.S. 068 Cambridge,Elementary,4.0
+782,Q071,P.S. 071 Forest,Elementary,4.0
+783,Q073,I.S. 73 - The Frank Sansivieri Intermediate School,Middle,4.0
+784,Q077,I.S. 077,Middle,4.0
+785,Q081,P.S. 81Q Jean Paul Richter,Elementary,4.0
+786,Q087,P.S./I.S. 87,K-8,4.0
+787,Q088,P.S. 088 Seneca,Elementary,2.0
+788,Q089,P.S. 089 Elmhurst,Elementary,5.0
+789,Q091,P.S. 091 Richard Arkwright,Elementary,3.0
+790,Q093,I.S. 093 Ridgewood,Middle,4.0
+791,Q102,P.S. 102 Bayview,K-8,5.0
+792,Q113,P.S./I.S. 113 Anthony J. Pranzo,K-8,4.0
+793,Q119,I.S. 119 The Glendale,Middle,4.0
+794,Q125,I.S. 125 Thom J. McCann Woodside,Middle,5.0
+795,Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",K-8,3.0
+796,Q143,P.S. 143 Louis Armstrong,Elementary,3.0
+797,Q153,P.S. 153 Maspeth Elem,Elementary,4.0
+798,Q199,P.S. 199 Maurice A. Fitzgerald,Elementary,5.0
+799,Q229,P.S. 229 Emanuel Kaplan,Elementary,5.0
+800,Q239,P.S. 239,Elementary,3.0
+801,Q307,Pioneer Academy,Elementary,4.0
+802,Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",Middle,4.0
+803,Q877,The 51 Avenue Academy (The Path To Academic Excellence),Elementary,4.0
+804,Q020,P.S. 020 John Bowne,Elementary,4.0
+805,Q021,P.S. 021 Edward Hart,Elementary,4.0
+806,Q022,P.S. 022 Thomas Jefferson,Elementary,5.0
+807,Q024,P.S. 024 Andrew Jackson,Elementary,5.0
+808,Q025,I.S. 025 Adrien Block,Middle,5.0
+809,Q029,P.S. 029 Queens,Elementary,4.0
+810,Q032,P.S. 032 State Street,Elementary,5.0
+811,Q079,P.S. 079 Francis Lewis,Elementary,3.0
+812,Q107,P.S. 107 Thomas A Dooley,Elementary,4.0
+813,Q120,P.S. 120 Queens,Elementary,4.0
+814,Q129,P.S. 129 Patricia Larkin,Elementary,5.0
+815,Q154,P.S. 154 Queens,Elementary,4.0
+816,Q163,P.S. 163 Flushing Heights,Elementary,5.0
+817,Q164,P.S. 164 Queens Valley,K-8,5.0
+818,Q165,P.S. 165 Edith K. Bergtraum,Elementary,4.0
+819,Q169,P.S. 169 Bay Terrace,Elementary,4.0
+820,Q184,P.S. 184 Flushing Manor,Elementary,4.0
+821,Q185,J.H.S. 185 Edward Bleeker,Middle,4.0
+822,Q189,J.H.S. 189 Daniel Carter Beard,Middle,5.0
+823,Q193,P.S. 193 Alfred J. Kennedy,Elementary,4.0
+824,Q194,J.H.S. 194 William Carr,Middle,3.0
+825,Q200,PS/MS 200 - The Pomonok School & STAR Academy,K-8,4.0
+826,Q201,P.S. 201 The Discovery School for Inquiry and Research,Elementary,3.0
+827,Q209,P.S. 209 Clearview Gardens,Elementary,5.0
+828,Q214,P.S. 214 Cadwallader Colden,Elementary,5.0
+829,Q219,P.S. 219 Paul Klapper,K-8,4.0
+830,Q237,I.S. 237,Middle,5.0
+831,Q250,I.S. 250 The Robert F. Kennedy Community Middle School,Middle,4.0
+832,Q252,"Queens School of Inquiry, The",Middle,4.0
+833,Q281,East-West School of International Studies,Middle,5.0
+834,Q285,World Journalism Preparatory: A College Board School,Middle,3.0
+835,Q294,BELL Academy,Middle,5.0
+836,Q499,"The Queens College School for Math, Science and Technology",K-8,5.0
+837,Q018,P.S. 018 Winchester,Elementary,4.0
+838,Q026,P.S. 026 Rufus King,Elementary,5.0
+839,Q031,P.S. 031 Bayside,Elementary,4.0
+840,Q041,P.S. 041 Crocheron,Elementary,5.0
+841,Q046,P.S. 046 Alley Pond,Elementary,5.0
+842,Q067,J.H.S. 067 Louis Pasteur,Middle,4.0
+843,Q074,J.H.S. 074 Nathaniel Hawthorne,Middle,4.0
+844,Q094,P.S. 094 David D. Porter,Elementary,3.0
+845,Q098,P.S. 098 The Douglaston School,Elementary,4.0
+846,Q115,P.S. 115 Glen Oaks,Elementary,5.0
+847,Q133,P.S. 133 Queens,Elementary,5.0
+848,Q158,M.S. 158 Marie Curie,Middle,4.0
+849,Q159,P.S. 159,Elementary,4.0
+850,Q162,P.S. 162 John Golden,Elementary,5.0
+851,Q172,Irwin Altman Middle School 172,Middle,3.0
+852,Q173,P.S. 173 Fresh Meadows,Elementary,5.0
+853,Q178,P.S./ IS 178 Holliswood,K-8,3.0
+854,Q186,P.S. 186 Castlewood,Elementary,5.0
+855,Q188,P.S. 188 Kingsbury,Elementary,5.0
+856,Q191,P.S. 191 Mayflower,Elementary,4.0
+857,Q203,P.S. 203 Oakland Gardens,Elementary,5.0
+858,Q205,P.S. 205 Alexander Graham Bell,Elementary,5.0
+859,Q213,P.S. 213 The Carl Ullman School,Elementary,5.0
+860,Q216,J.H.S. 216 George J. Ryan,Middle,5.0
+861,Q221,P.S. 221 The North Hills School,Elementary,5.0
+862,Q266,P.S. / I.S. 266,K-8,4.0
+863,Q042,P.S./M.S 042 R. Vernam,K-8,3.0
+864,Q043,P.S. 043,K-8,3.0
+865,Q045,P.S. 045 Clarence Witherspoon,Elementary,4.0
+866,Q047,P.S. 047 Chris Galas,K-8,4.0
+867,Q053,M.S. 053 Brian Piccolo,Middle,4.0
+868,Q056,P.S. 056 Harry Eichler,Elementary,4.0
+869,Q060,P.S. 060 Woodhaven,Elementary,5.0
+870,Q062,P. S. 62 - Chester Park School,Elementary,4.0
+871,Q063,P.S. 063 Old South,Elementary,5.0
+872,Q064,P.S. 064 Joseph P. Addabbo,Elementary,3.0
+873,Q065,P.S. 65 - The Raymond York Elementary School,Elementary,4.0
+874,Q066,P.S. 066 Jacqueline Kennedy Onassis,Elementary,5.0
+875,Q090,P.S. 090 Horace Mann,Elementary,4.0
+876,Q096,P.S. 096,Elementary,3.0
+877,Q097,P.S. 097 Forest Park,Elementary,5.0
+878,Q100,P.S. 100 Glen Morris,Elementary,3.0
+879,Q104,P.S. 104 The Bays Water,Elementary,4.0
+880,Q105,P.S. 105 The Bay School,K-8,
+881,Q106,P.S. 106,Elementary,
+882,Q108,P.S. 108 Captain Vincent G. Fowler,Elementary,4.0
+883,Q114,P.S. / M.S. 114 Belle Harbor,K-8,3.0
+884,Q123,P.S. 123,Elementary,3.0
+885,Q124,P.S. 124 Osmond A Church,K-8,3.0
+886,Q137,M.S. 137 America's School of Heroes,Middle,3.0
+887,Q146,P.S. 146 Howard Beach,K-8,4.0
+888,Q155,P.S. 155,Elementary,2.0
+889,Q183,P.S. 183 Dr. Richard R. Green,K-8,4.0
+890,Q197,P.S. 197 The Ocean School,Elementary,
+891,Q202,J.H.S. 202 Robert H. Goddard,Middle,3.0
+892,Q207,P.S. 207 Rockwood Park,K-8,4.0
+893,Q210,J.H.S. 210 Elizabeth Blackwell,Middle,3.0
+894,Q215,P.S. 215 Lucretia Mott,Elementary,
+895,Q223,P.S. 223 Lyndon B. Johnson,Elementary,4.0
+896,Q226,J.H.S. 226 Virgil I. Grissom,Middle,2.0
+897,Q232,P.S. 232 Lindenwood,K-8,5.0
+898,Q253,P.S. 253,Elementary,3.0
+899,Q254,P.S. 254 - The Rosa Parks School,Elementary,5.0
+900,Q262,Channel View School for Research,Middle,
+901,Q282,Knowledge and Power Preparatory Academy VI,Middle,3.0
+902,Q306,New York City Academy for Discovery,Elementary,4.0
+903,Q309,Academy of Medical Technology: A College Board School,Middle,3.0
+904,Q317,WATERSIDE CHILDREN'S STUDIO SCHOOL,Elementary,
+905,Q318,WATERSIDE SCHOOL FOR LEADERSHIP,Middle,5.0
+906,Q319,VILLAGE ACADEMY,Middle,4.0
+907,Q323,Scholars' Academy,Middle,5.0
+908,Q333,Goldie Maple Academy,K-8,3.0
+909,Q008,J.H.S. 008 Richard S. Grossley,Middle,4.0
+910,Q030,P.S. 030 Queens,Elementary,
+911,Q040,P.S. 040 Samuel Huntington,Elementary,3.0
+912,Q048,P.S. 048 William Wordsworth,Elementary,4.0
+913,Q050,P.S. 050 Talfourd Lawn Elementary School,Elementary,3.0
+914,Q054,P.S. 054 Hillside,Elementary,2.0
+915,Q055,P.S. 055 Maure,Elementary,3.0
+916,Q072,Catherine & Count Basie Middle School 72,Middle,3.0
+917,Q080,P.S. 080 Thurgood Marshall Magnet,Elementary,3.0
+918,Q082,P.S. 082 Hammond,Elementary,3.0
+919,Q086,P.S. Q086,Elementary,4.0
+920,Q099,P.S. 099 Kew Gardens,Elementary,4.0
+921,Q101,P.S. 101 School in the Gardens,Elementary,4.0
+922,Q117,P.S. 117 J. Keld / Briarwood School,Elementary,3.0
+923,Q121,P.S. 121 Queens,Elementary,3.0
+924,Q139,P.S. 139 Rego Park,Elementary,3.0
+925,Q140,P.S. 140 Edward K Ellington,Elementary,3.0
+926,Q144,P.S. 144 Col Jeromus Remsen,Elementary,4.0
+927,Q157,J.H.S. 157 Stephen A. Halsey,Middle,4.0
+928,Q160,P.S. 160 Walter Francis Bishop,Elementary,3.0
+929,Q161,P.S. 161 Arthur Ashe School,Elementary,5.0
+930,Q167,METROPOLITAN EXPEDITIONARY LEARNING SCHOOL,Middle,4.0
+931,Q174,P.S. 174 William Sidney Mount,Elementary,3.0
+932,Q175,P.S. 175 The Lynn Gross Discovery School,Elementary,3.0
+933,Q182,P.S. 182 Samantha Smith,Elementary,3.0
+934,Q190,J.H.S. 190 Russell Sage,Middle,4.0
+935,Q196,P.S. 196 Grand Central Parkway,Elementary,5.0
+936,Q206,P.S. 206 The Horace Harding School,Elementary,4.0
+937,Q217,J.H.S. 217 Robert A. Van Wyck,Middle,4.0
+938,Q220,P.S. 220 Edward Mandel,Elementary,4.0
+939,Q284,York Early College Academy,Middle,4.0
+940,Q310,Queens Collegiate: A College Board School,Middle,4.0
+941,Q680,Queens Gateway to Health Sciences Secondary School,Middle,4.0
+942,Q896,"Young Women's Leadership School, Queens",Middle,3.0
+943,Q015,P.S. 015 Jackie Robinson,Elementary,3.0
+944,Q033,P.S. 033 Edward M. Funk,Elementary,3.0
+945,Q034,P.S. 034 John Harvard,Elementary,4.0
+946,Q035,P.S. 035 Nathaniel Woodhull,Elementary,4.0
+947,Q036,P.S. 036 Saint Albans School,Elementary,3.0
+948,Q037,Cynthia Jenkins School,Elementary,3.0
+949,Q038,P.S. 038 Rosedale,Elementary,4.0
+950,Q052,P.S. 052 Queens,Elementary,4.0
+951,Q059,I.S. 059 Springfield Gardens,Middle,3.0
+952,Q095,P.S. 095 Eastwood,Elementary,4.0
+953,Q109,Jean Nuzzi Intermediate School,Middle,3.0
+954,Q116,PS/IS 116 William C. Hughley,K-8,2.0
+955,Q118,P.S. 118 Lorraine Hansberry,Elementary,3.0
+956,Q131,P.S. 131 Abigail Adams,Elementary,4.0
+957,Q132,P.S. 132 Ralph Bunche,Elementary,4.0
+958,Q134,P.S. 134 Hollis,Elementary,3.0
+959,Q135,The Bellaire School,Elementary,3.0
+960,Q136,P.S. 136 Roy Wilkins,Elementary,3.0
+961,Q138,P.S./ M.S.138 Sunrise,K-8,3.0
+962,Q147,PS/MS 147 Ronald McNair,K-8,3.0
+963,Q156,P.S. 156 Laurelton,K-8,3.0
+964,Q176,P.S. 176 Cambria Heights,Elementary,3.0
+965,Q181,P.S. 181 Brookfield,Elementary,4.0
+966,Q192,I.S. 192 The Linden,Middle,4.0
+967,Q195,P.S. 195 William Haberle,Elementary,3.0
+968,Q208,P.S. / I.S. 208,K-8,3.0
+969,Q231,I.S. 231 Magnetech 2000,Middle,
+970,Q238,I.S. 238 - Susan B. Anthony Academy,Middle,3.0
+971,Q259,Pathways College Preparatory School: A College Board School,Middle,2.0
+972,Q268,PS/IS 268,K-8,3.0
+973,Q270,The Gordon Parks School,K-8,2.0
+974,Q283,Preparatory Academy for Writers: A College Board School,Middle,4.0
+975,Q295,P.S./I.S. 295,K-8,4.0
+976,Q327,EAGLE ACADEMY FOR YOUNG MEN III,Middle,3.0
+977,Q355,Collaborative Arts Middle School,Middle,3.0
+978,Q356,Community Voices Middle School,Middle,1.0
+979,Q002,P.S. 002 Alfred Zimberg,Elementary,2.0
+980,Q010,I.S. 010 Horace Greeley,Middle,4.0
+981,Q011,P.S. 011 Kathryn Phelan,Elementary,4.0
+982,Q017,P.S. 017 Henry David Thoreau,Elementary,4.0
+983,Q069,P.S. 069 Jackson Heights,Elementary,5.0
+984,Q070,P.S. 070 Queens,Elementary,4.0
+985,Q076,P.S. 076 William Hallet,Elementary,4.0
+986,Q078,P.S./I.S. 78Q,Elementary,5.0
+987,Q084,P.S. 084 Steinway,K-8,3.0
+988,Q085,P.S. 085 Judge Charles Vallone,Elementary,5.0
+989,Q092,P.S. 092 Harry T. Stewart Sr.,Elementary,4.0
+990,Q111,P.S. 111 Jacob Blackwell,K-8,3.0
+991,Q112,P.S. 112 Dutch Kills,Elementary,5.0
+992,Q122,P.S. 122 Mamie Fay,K-8,5.0
+993,Q126,Albert Shanker School for Visual and Performing Arts,Middle,3.0
+994,Q127,P.S. 127 Aerospace Science Magne,K-8,3.0
+995,Q141,I.S. 141 The Steinway,Middle,5.0
+996,Q145,I.S. 145 Joseph Pulitzer,Middle,4.0
+997,Q148,P.S. 148 Queens,Elementary,3.0
+998,Q149,P.S. 149 Christa Mcauliffe,Elementary,3.0
+999,Q150,P.S. 150 Queens,Elementary,5.0
+1000,Q151,P.S. 151 Mary D. Carter,Elementary,3.0
+1001,Q152,P.S. 152 Gwendoline N. Alleyne School,Elementary,5.0
+1002,Q166,P.S. 166 Henry Gradstein,Elementary,4.0
+1003,Q171,P.S. 171 Peter G. Van Alst,Elementary,3.0
+1004,Q204,I.S. 204 Oliver W. Holmes,Middle,4.0
+1005,Q212,P.S. 212,Elementary,4.0
+1006,Q227,I.S. 227 Louis Armstrong,Middle,5.0
+1007,Q230,I.S. 230,Middle,5.0
+1008,Q234,P.S. 234,Elementary,2.0
+1009,Q235,Academy for New Americans,Middle,5.0
+1010,Q286,"Young Women's Leadership School, Astoria",Middle,4.0
+1011,Q580,Baccalaureate School for Global Education,Middle,5.0
+1012,R001,P.S. 001 Tottenville,Elementary,4.0
+1013,R002,I.S. R002 George L. Egbert,Middle,3.0
+1014,R003,P.S. 003 The Margaret Gioiosa School,Elementary,3.0
+1015,R004,P.S. 004 Maurice Wollin,Elementary,4.0
+1016,R005,P.S. 005 Huguenot,Elementary,3.0
+1017,R006,P.S. 6 Corporal Allan F. Kivlehan School,Elementary,1.0
+1018,R007,I.S. 007 Elias Bernstein,Middle,4.0
+1019,R008,P.S. 8 Shirlee Solomon,Elementary,5.0
+1020,R011,P.S. 11 Thomas Dongan School,Elementary,5.0
+1021,R013,P.S. 013 M. L. Lindemeyer,Elementary,4.0
+1022,R014,P.S. 014 Cornelius Vanderbilt,Elementary,
+1023,R016,P.S. 016 John J. Driscoll,Elementary,3.0
+1024,R018,P.S. 018 John G. Whittier,Elementary,3.0
+1025,R019,P.S. 019 The Curtis School,Elementary,4.0
+1026,R020,P.S. 020 Port Richmond,Elementary,3.0
+1027,R021,P.S. 21 Margaret Emery-Elm Park,Elementary,4.0
+1028,R022,P.S. 022 Graniteville,Elementary,3.0
+1029,R023,P.S. 023 Richmondtown,Elementary,4.0
+1030,R024,I.S. 024 Myra S. Barnes,Middle,3.0
+1031,R026,P.S. 026 The Carteret School,Elementary,5.0
+1032,R027,I.S. 027 Anning S. Prall,Middle,3.0
+1033,R029,P.S. 029 Bardwell,Elementary,3.0
+1034,R030,P.S. 030 Westerleigh,Elementary,3.0
+1035,R031,P.S. 031 William T. Davis,Elementary,4.0
+1036,R032,P.S. 032 The Gifford School,Elementary,3.0
+1037,R034,I.S. 034 Tottenville,Middle,4.0
+1038,R035,P.S. 35 The Clove Valley School,Elementary,4.0
+1039,R036,P.S. 036 J. C. Drumgoole,Elementary,3.0
+1040,R038,P.S. 038 George Cromwell,Elementary,4.0
+1041,R039,P.S. 39 Francis J. Murphy Jr.,Elementary,4.0
+1042,R041,P.S. 041 New Dorp,Elementary,3.0
+1043,R042,P.S. 042 Eltingville,Elementary,3.0
+1044,R044,P.S. 044 Thomas C. Brown,Elementary,4.0
+1045,R045,P.S. 045 John Tyler,Elementary,2.0
+1046,R046,P.S. 046 Albert V. Maniscalco,Elementary,3.0
+1047,R048,P.S. 048 William C. Wilcox,Elementary,3.0
+1048,R049,I.S. 49 Berta A. Dreyfus,Middle,4.0
+1049,R050,P.S. 050 Frank Hankinson,Elementary,4.0
+1050,R051,I.S. 051 Edwin Markham,Middle,4.0
+1051,R052,P.S. 052 John C. Thompson,Elementary,3.0
+1052,R053,P.S. 053 Bay Terrace,Elementary,4.0
+1053,R054,P.S. 054 Charles W. Leng,Elementary,3.0
+1054,R055,P.S. 055 Henry M. Boehm,Elementary,3.0
+1055,R056,P.S. 56 The Louis Desario School,Elementary,3.0
+1056,R057,P.S. 057 Hubert H. Humphrey,Elementary,4.0
+1057,R058,Space Shuttle Columbia School,Elementary,4.0
+1058,R060,P.S. 060 Alice Austen,Elementary,3.0
+1059,R061,I.S. 061 William A Morris,Middle,4.0
+1060,R063,Marsh Avenue School for Expeditionary Learning,Middle,4.0
+1061,R065,P.S. 65 The Academy of Innovative Learning,Elementary,3.0
+1062,R069,P.S. 069 Daniel D. Tompkins,Elementary,3.0
+1063,R072,I.S. 072 Rocco Laurie,Middle,4.0
+1064,R075,I.S. 075 Frank D. Paulo,Middle,4.0
+1065,R080,The Michael J. Petrides School,K-8,3.0
+1066,R861,Staten Island School of Civic Leadership,K-8,5.0
+1067,K045,P.S. 045 Horace E. Greene,K-8,2.0
+1068,K075,P.S. 075 Mayda Cortiella,Elementary,4.0
+1069,K086,P.S. 086 The Irvington,Elementary,5.0
+1070,K106,P.S. 106 Edward Everett Hale,Elementary,3.0
+1071,K116,P.S. 116 Elizabeth L Farrell,Elementary,4.0
+1072,K123,P.S. 123 Suydam,Elementary,3.0
+1073,K145,P.S. 145 Andrew Jackson,Elementary,1.0
+1074,K151,P.S. 151 Lyndon B. Johnson,Elementary,3.0
+1075,K162,J.H.S. 162 The Willoughby,Middle,4.0
+1076,K274,P.S. 274 Kosciusko,Elementary,3.0
+1077,K291,J.H.S. 291 Roland Hayes,Middle,3.0
+1078,K296,I.S. 296 - The Anna Gonzalez Community School,Middle,
+1079,K299,P.S. 299 Thomas Warren Field,Elementary,4.0
+1080,K347,I.S. 347 School of Humanities,Middle,2.0
+1081,K349,"I.S. 349 Math, Science & Tech.",Middle,4.0
+1082,K376,P.S. 376,Elementary,4.0
+1083,K377,P.S. 377 Alejandrina B. De Gautier,K-8,2.0
+1084,K383,J.H.S. 383 Philippa Schuyler,Middle,3.0
+1085,K384,P.S. /I.S. 384 Frances E. Carter,K-8,4.0
+1086,K554,All City Leadership Secondary School,Middle,4.0
+1087,K562,Evergreen Middle School for Urban Exploration,Middle,
+1088,K355,Williamsburg Collegiate Charter School,Middle,5.0
+1089,K356,Achievement First Crown Heights Charter School,K-8,3.0
+1090,K357,KIPP AMP Charter School,Middle,3.0
+1091,K358,Achievement First East New York Charter School,K-8,4.0
+1092,K359,The Uft Charter School,K-8,1.0
+1093,K360,LAUNCH EXPEDITIONARY LEARNING CHARTER SCHOOL,Middle,
+1094,K362,Hellenic Classical Charter School,K-8,3.0
+1095,K379,Explore Excel Charter School,Elementary,3.0
+1096,K386,Invictus Preparatory Charter School,Middle,4.0
+1097,K508,Achievement First Endeavor Charter School,Middle,4.0
+1098,K517,Leadership Prep Bedford Stuyvesant Charter School,K-8,4.0
+1099,K536,Community Roots Charter School,Elementary,4.0
+1100,K538,Achievement First Bushwick Charter School,K-8,5.0
+1101,K593,Excellence Boys Charter School,K-8,4.0
+1102,K608,Kings Collegiate Charter School,Middle,5.0
+1103,K626,ACHIEVEMENT FIRST BROWNSVILLE CHARTER SCHOOL,Elementary,5.0
+1104,K648,Bedford Stuyvesant Collegiate Charter School,Middle,4.0
+1105,K649,La Cima Charter School,Elementary,3.0
+1106,K651,PAVE Academy Charter School,Elementary,4.0
+1107,K652,Brooklyn Ascend Charter School,Elementary,2.0
+1108,K701,Brooklyn Charter School,Elementary,3.0
+1109,K702,Community Partnership Charter School,K-8,2.0
+1110,K703,Beginning With Children Charter School,K-8,4.0
+1111,K704,Explore Charter School,K-8,3.0
+1112,K707,Brooklyn Prospect Charter School,Middle,4.0
+1113,K710,Brownsville Collegiate Charter School,Middle,5.0
+1114,K711,Leadership Preparatory Brownsville Charter School,Elementary,3.0
+1115,K712,Excellence Girls Charter School,Elementary,5.0
+1116,K726,Fahari Academy Charter School,Middle,1.0
+1117,K730,Summit Academy Charter School,Middle,4.0
+1118,K731,Brooklyn Excelsior Charter School,K-8,1.0
+1119,K734,The Ethical Community Charter School (TECCS),Elementary,2.0
+1120,K737,Brownsville Ascend Charter School,Elementary,3.0
+1121,K740,Brooklyn Scholars Charter School,K-8,2.0
+1122,K742,Explore Empower Charter School,Elementary,4.0
+1123,K744,Coney Island Preparatory Public Charter School,Middle,4.0
+1124,K746,Hebrew Language Academy Charter School,Elementary,1.0
+1125,K777,Ocean Hill Collegiate Charter School,Middle,5.0
+1126,K780,Brooklyn East Collegiate Charter School,Middle,5.0
+1127,K782,Bedford Stuyvesant New Beginnings Charter School,Elementary,3.0
+1128,K791,Brooklyn Dreams Charter School,Elementary,4.0
+1129,K797,New Hope Academy Charter School,Elementary,2.0
+1130,M065,Democracy Prep Endurance Charter School,Middle,
+1131,M068,KIPP Washington Heights Middle School,Middle,
+1132,M279,The Opportunity Charter School,Middle,4.0
+1133,M284,Harlem Children's Zone Promise Academy 1 Charter School,K-8,3.0
+1134,M320,Manhattan Charter School,Elementary,3.0
+1135,M329,Harlem Link Charter School,Elementary,4.0
+1136,M330,Girls Preparatory Charter School of New York,K-8,5.0
+1137,M335,Harlem Village Academy Leadership Charter School,Middle,4.0
+1138,M336,KIPP Infinity Charter School,Middle,5.0
+1139,M341,Harlem Children's Zone Promise Academy II Charter School,K-8,3.0
+1140,M350,Democracy Prep Charter School,Middle,5.0
+1141,M351,Success Academy Charter School - Harlem 1,K-8,5.0
+1142,M353,New Heights Academy Charter School,Middle,4.0
+1143,M382,DREAM Charter School,Elementary,3.0
+1144,M384,Success Academy Charter School - Harlem 2,Elementary,5.0
+1145,M385,Success Academy Charter School - Harlem 3,Elementary,5.0
+1146,M386,Success Academy Charter School - Harlem 4,Elementary,5.0
+1147,M388,St. HOPE Leadership Academy Charter School,Middle,3.0
+1148,M430,The Equity Project Charter School (TEP),Middle,5.0
+1149,M478,Inwood Academy for Leadership Charter School,Middle,3.0
+1150,M481,Democracy Prep Harlem Charter School,Middle,4.0
+1151,M483,New York French American Charter School,Elementary,4.0
+1152,M524,Innovate Manhattan Charter School,Middle,3.0
+1153,M702,Sisulu-Walker Charter School of Harlem,Elementary,4.0
+1154,M704,Harbor Science and Arts Charter School,K-8,4.0
+1155,M705,Amber Charter School,Elementary,5.0
+1156,M708,Harlem Prep Charter School,Elementary,5.0
+1157,M709,Harlem Village Academy Charter School,Middle,3.0
+1158,M726,KIPP STAR College Prep Charter School,Middle,4.0
+1159,M861,Future Leaders Institute Charter School,K-8,4.0
+1160,Q083,Central Queens Academy Charter School,Middle,
+1161,Q170,Peninsula Preparatory Academy Charter School,Elementary,5.0
+1162,Q304,VOICE Charter School of New York,Elementary,5.0
+1163,Q321,Growing Up Green Charter School,Elementary,3.0
+1164,Q341,Riverton Street Charter School,Elementary,5.0
+1165,Q704,Merrick Academy - Queens Public Charter School,Elementary,3.0
+1166,Q705,Renaissance Charter School,K-8,3.0
+1167,Q706,Our World Neighborhood Charter School,K-8,3.0
+1168,R067,John W. Lavelle Preparatory Charter School,Middle,4.0
+1169,R073,New World Preparatory Charter School,Middle,5.0
+1170,X165,Grand Concourse Charter School,Elementary,5.0
+1171,X177,MOTT HALL CHARTER SCHOOL,Middle,
+1172,X185,Bronx Lighthouse Charter School,K-8,4.0
+1173,X255,Bronx Charter School for Excellence,K-8,4.0
+1174,X258,Tech International Charter School,Middle,
+1175,X309,South Bronx Charter School for International Cultures and the Arts,Elementary,3.0
+1176,X345,Hyde Leadership Charter School,K-8,3.0
+1177,X346,South Bronx Classical Charter School,Elementary,5.0
+1178,X378,Icahn Charter School 2,K-8,5.0
+1179,X389,Bronx Global Learning Institute for Girls Charter School,Elementary,3.0
+1180,X394,Mott Haven Academy Charter School,Elementary,5.0
+1181,X398,Bronx Community Charter School,Elementary,4.0
+1182,X407,Bronx Charter School for Children,Elementary,4.0
+1183,X419,Bronx Academy of Promise Charter School,Elementary,4.0
+1184,X422,Icahn Charter School 3,Elementary,4.0
+1185,X461,Metropolitan Lighthouse Charter School,Elementary,5.0
+1186,X482,Dr. Richard Izquierdo Health and Science Charter School,Middle,3.0
+1187,X487,Girls Preparatory Charter School of the Bronx,Elementary,5.0
+1188,X488,The Equality Charter School,Middle,4.0
+1189,X491,Academic Leadership Charter School,Elementary,4.0
+1190,X496,Icahn Charter School 4,Elementary,5.0
+1191,X703,Bronx Preparatory Charter School,Middle,3.0
+1192,X704,KIPP Academy Charter School,K-8,5.0
+1193,X705,Family Life Academy Charter School,K-8,4.0
+1194,X706,Harriet Tubman Charter School,K-8,4.0
+1195,X717,Icahn Charter School,K-8,4.0
+1196,X718,Bronx Charter School for Better Learning,Elementary,4.0
+1197,X730,Bronx Charter School for the Arts,Elementary,4.0
